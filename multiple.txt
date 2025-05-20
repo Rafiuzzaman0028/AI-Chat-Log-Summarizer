@@ -1,0 +1,8 @@
+User: Hi there! Can you tell me about Python?
+AI: Sure! Python is a popular programming language known for its simplicity.
+User: What can I do with Python?
+AI: You can use Python for web development, data analysis, machine learning, and more.
+User: That's interesting. How do I start learning it?
+AI: You can start with free online tutorials, courses, or official Python documentation.
+User: Thank you!
+AI: You're welcome! Let me know if you need more help.
