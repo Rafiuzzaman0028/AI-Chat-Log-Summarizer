@@ -1,2 +1,0 @@
-pip show scikit-learn
-
