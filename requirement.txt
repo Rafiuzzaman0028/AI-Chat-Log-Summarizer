@@ -1,0 +1,11 @@
+# Core Requirements
+scikit-learn>=1.0.2  # For TF-IDF vectorization
+nltk>=3.7            # Optional for advanced NLP (uncomment in code to use)
+
+# Development/Testing (optional)
+pytest>=7.0.0        # For running tests
+black>=22.3.0        # Code formatting
+flake8>=4.0.1        # Linting
+
+# Python version requirement
+python>=3.6
